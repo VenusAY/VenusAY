@@ -14,13 +14,12 @@ Here are some ideas to get you started:
 -->
 # Hi, I'm Venus Au-Yeung 👋
 I'm a Data Science student at City University of Hong Kong, passionate about machine learning, data engineering, and AI-driven solutions. Currently learning advanced data mining techniques and building scalable data pipelines.
-# 👯 I'm looking to collaborate on
--Open-source data science projects
--AI-driven applications for real-world problem-solving
+## 👯 I'm looking to collaborate on
+- Open-source data science projects
+- AI-driven applications for real-world problem-solving
 
 ## 🔧 Tech Stack
 - Languages: Python, C++, R
-- 
 - Tools: Excel, PowerPoint, Tableau, Docker
 
 ## 📈 GitHub Stats
