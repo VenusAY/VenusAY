@@ -14,3 +14,16 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Venus Au-Yeung 👋
+I'm a [your role] passionate about [interests]. Currently learning [tech/skills].
+
+## 🔧 Tech Stack
+- Languages: Python, C++, R
+- Tools: Excel, PowerPoint, Tableau, Docker
+
+## 📈 GitHub Stats
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true)
+
+## 📫 Connect with Me
+- LinkedIn: [www.linkedin.com/in/fung-yin-au-yeung-5b2372373]
+- Email: your.email@example.com
