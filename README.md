@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **VenusAY/VenusAY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hi, I'm Venus Au-Yeung 👋
-I'm a [your role] passionate about [interests]. Currently learning [tech/skills].
+I'm a Data Science student at City University of Hong Kong, passionate about machine learning, data engineering, and AI-driven solutions. Currently learning advanced data mining techniques and building scalable data pipelines.
+# 👯 I'm looking to collaborate on
+-Open-source data science projects
+-AI-driven applications for real-world problem-solving
 
 ## 🔧 Tech Stack
 - Languages: Python, C++, R
