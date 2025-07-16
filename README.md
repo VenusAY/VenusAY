@@ -26,4 +26,4 @@ I'm a [your role] passionate about [interests]. Currently learning [tech/skills]
 
 ## 📫 Connect with Me
 - LinkedIn: [www.linkedin.com/in/fung-yin-au-yeung-5b2372373]
-- Email: your.email@example.com
+- Email: fungyin.auyeung.venus@gmail.com
